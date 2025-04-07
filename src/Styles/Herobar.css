@@ -1,0 +1,12 @@
+.heroImg{
+    width: 1820px;
+    height: 740px;
+    position: relative;
+}
+.heroPara{
+    font-size: 70px;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 1%;
+}
