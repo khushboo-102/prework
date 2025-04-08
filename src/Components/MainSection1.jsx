@@ -2,10 +2,12 @@ import "../Styles/MainSection1.css"
 import { FiPlusCircle } from "react-icons/fi";
 function MainSection1() {
     return (
-        <main className="main">
+            <main className="main">
             <div className="mainDiv">
-                <p>Flexible everyday</p>
-                <p>At Velionex, we connect you with the provider that best fits your needs.Wireless services, high-speed internet, and premium entertainment – simple, seamless, and tailored for your everyday life.</p>
+                <div className="firstPara">
+                <p className="tittle">Flexible everyday</p>
+                <p className="intro">At Velionex, we connect you with the provider that best fits your needs.Wireless services, high-speed internet, and premium entertainment – simple, seamless, and tailored for your everyday life.</p>
+                </div>
 
                 < hr className="linDiv" />
                 <div className="linePara">

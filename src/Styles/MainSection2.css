@@ -1,4 +1,18 @@
-/* .paraDiv{
+.retailerDiv{
+    margin-top: 5%;
+}
+.retailerDiv p{
+    font-size: 25px;
+}
+.partnerName {
     display: flex;
     justify-content: space-between;
-} */
+    color: #00000080;
+    font-weight: bold;
+    /* font-size: 50%; */
+}
+
+.partnerName p{
+    font-size: 35px;
+}
+ 
