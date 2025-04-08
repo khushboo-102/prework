@@ -1,9 +1,12 @@
 import React from "react";
+import './App.css'
  import Navigation from "./Components/Navigation"; 
  import Herobar from "./Components/Herobar"
  import MainSection1 from "./Components/MainSection1"
  import MainSection2 from "./Components/MainSection2"
  import MainSection3 from "./Components/MainSection3"
+ import MainSection4 from "./Components/MainSection4"
+
 
 
 
@@ -40,6 +43,7 @@ return (
 
 
     </div>
+    <MainSection4/>
     </>
     
 )} 
