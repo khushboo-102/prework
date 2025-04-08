@@ -1,0 +1,44 @@
+.Mainsection3{
+    display: flex;
+     gap:5%;    
+ }
+
+.section img{
+    width: 545px;
+    height: 355px;
+}
+.section{
+    display: flex;
+    flex-direction: column;
+     border: 1px solid #ebe8e8;
+     max-width: 545px;
+    /* max-height:600px ; */
+ }
+.section p{
+    padding-left: 3%;
+}
+.section button{
+    background-color: #66DC99;
+    padding: 10px;
+    border-radius: 30px;
+    width: 35%;
+    border: 1px solid #66DC99;
+    font-size: 18px;
+    color: #002D2B;
+    margin-left: 3%;
+    margin-top: 35px;
+    margin-bottom:4% ;
+}
+.subtittle{
+    font-size: 20px;
+}
+
+
+ .section p:nth-last-of-type(2){
+    font-size: 25px;
+    margin-top: -20px;
+    margin-bottom: -2px;
+  }
+.section ul {
+    margin-top:-1px;
+}
