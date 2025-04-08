@@ -1,17 +1,45 @@
-.mainDiv{
+.mainDiv {
     background-color: #252525;
     width: 1000px;
     height: 475px;
 }
 
-.mainImg img{
-    width: 1000px;
+.mainDiv p {
+    color: white;
+}
+
+.plusCircle {
+    color: white;
+    padding-top: 15px;
+}
+
+.mainImg img {
+    width: 875px;
     height: 475px;
 }
 
-.main{
+
+.main {
     display: flex;
     /* justify-content: space-around; */
     gap: 10px;
     margin-top: 10px;
 }
+
+.linePara {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 4% 0px 4%;
+  }
+   
+.linDiv {
+    margin-top: 18%;
+ }
+.mainDiv hr {
+    border: none;
+    width: 94%;
+    height: 2px;
+    background-color: #FFFFFF26;   
+    /* margin-top: 2px;  */
+  }
+  

@@ -1,4 +1,6 @@
 import "../Styles/Navigation.css"
+import { BsGlobe } from "react-icons/bs";
+import { FaAngleDown } from "react-icons/fa6";
  
 function Navigation(){
     return(
@@ -14,7 +16,7 @@ function Navigation(){
                 <li>Internet</li>
                 <li>Directv</li>
                 <li>About us</li>
-                <li><img src="image.png" alt="" /></li>
+                 <li><BsGlobe/> <FaAngleDown/></li>
               </ul>
         </div>
         <div className="ContactDiv">
