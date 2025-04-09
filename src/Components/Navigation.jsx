@@ -16,7 +16,7 @@ function Navigation(){
                 <li>Internet</li>
                 <li>Directv</li>
                 <li>About us</li>
-                 <li><BsGlobe/> <FaAngleDown/></li>
+                 <li className="bsglobeIcon"><BsGlobe/> <FaAngleDown/></li>
               </ul>
         </div>
         <div className="ContactDiv">
