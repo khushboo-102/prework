@@ -21,7 +21,7 @@
 
 .plusCircle {
     color: white;
-    padding-top: 15px;
+    padding-top: 10px;
 }
 
 .mainImg img {
@@ -40,12 +40,14 @@
 .linePara {
     display: flex;
     justify-content: space-between;
-    padding: 0px 4% 0px 4%;
+    padding: 0px 4% 0px 3%;
+    height: 20px;
+    align-items: center;
   }
    
-.linDiv {
-    margin-top: 90px;
- }
+.lineDiv {
+    margin-top: 180px;
+  }
 .mainDiv hr {
     border: none;
     width: 94%;

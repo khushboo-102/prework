@@ -9,7 +9,7 @@ function MainSection1() {
                     <p className="intro">At Velionex, we connect you with the provider that best fits your needs.Wireless services, high-speed internet, and premium entertainment – simple, seamless, and tailored for your everyday life.</p>
                 </div>
 
-                < hr className="linDiv" />
+                < hr className="lineDiv" />
                 <div className="linePara">
                     <p>Wireless</p>
                     <FiPlusCircle className="plusCircle" />
