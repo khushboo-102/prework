@@ -5,7 +5,7 @@ import { FaAngleDown } from "react-icons/fa6";
 function Navigation(){
     return(
         <nav className="Nav">
-        <div className="logoDiv">
+        <div className="Logodiv">
            <img src="logo.png" alt=""/> 
            <p>Velionex</p>
         </div>
