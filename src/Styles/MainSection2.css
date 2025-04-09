@@ -1,16 +1,17 @@
 .retailerDiv{
-    margin-top: 4%;
+    margin-top: 2.5%;
+    margin-bottom: 1%;
 }
 .retailerDiv p{
     font-size: 25px;
-    margin-bottom: 5px;
-}
+    margin-bottom: 2px;
+ }
 .partnerName {
     display: flex;
     justify-content: space-between;
     color: #00000080;
     font-weight: bold;
-    margin-bottom: 4%;
+
  }
 
  
