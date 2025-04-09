@@ -1,38 +1,41 @@
 .mainDiv {
     background-color: #252525;
     width: 1000px;
-    height: 475px;
+    height: 500px;
+    border-radius: 10px;
 }
+
 .mainDiv p {
     color: white;
     /* width: 100; */
 }
-.firstPara{
-  width: 41%;
-  padding-left: 33px;
+
+.firstPara {
+    width: 41%;
+    padding-left: 33px;
 }
-.firstPara .tittle{
+
+.firstPara .tittle {
     font-size: 30px;
 }
-.firstPara .intro{
+
+.firstPara .intro {
     font-size: 15px;
     font-weight: 500;
 }
 
 .plusCircle {
     color: white;
-    padding-top: 10px;
+    align-items: center;
 }
 
 .mainImg img {
     width: 875px;
-    height: 475px;
+    height: 500px;
 }
-
 
 .main {
     display: flex;
-    /* justify-content: space-around; */
     gap: 10px;
     margin-top: 10px;
 }
@@ -43,16 +46,16 @@
     padding: 0px 4% 0px 3%;
     height: 20px;
     align-items: center;
-  }
-   
+}
+
 .lineDiv {
-    margin-top: 180px;
-  }
+    margin-top: 190px;
+}
+
 .mainDiv hr {
     border: none;
     width: 94%;
     height: 2px;
-    background-color: #FFFFFF26;   
+    background-color: #FFFFFF26;
     /* margin-top: 2px;  */
-  }
-  
+}

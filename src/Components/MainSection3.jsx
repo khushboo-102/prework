@@ -1,6 +1,6 @@
 import "../Styles/MainSection3.css"
-function MainSection3({image, firstpara, heading, secondpara, lists, button}){
-    return(
+function MainSection3({ image, firstpara, heading, secondpara, lists, button }) {
+    return (
         <main >
             <section className="section">
                 <img src={image} alt="" />
@@ -9,13 +9,13 @@ function MainSection3({image, firstpara, heading, secondpara, lists, button}){
                 <p>{secondpara}</p>
                 <ul>
                     {
-                        lists.map((item, index)=>(
+                        lists.map((item, index) => (
                             <li key={index}>{item}</li>
                         ))
                     }
                 </ul>
                 <button>{button}</button>
-              </section>
+            </section>
         </main>
     )
 }

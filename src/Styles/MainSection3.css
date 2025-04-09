@@ -1,23 +1,26 @@
-.Mainsection3{
+.Mainsection3 {
     display: flex;
-     gap:5%;    
- }
+    gap: 5%;
+}
 
-.section img{
+.section img {
     width: 545px;
     height: 355px;
 }
-.section{
+
+.section {
     display: flex;
     flex-direction: column;
-     border: 1px solid #ebe8e8;
-     max-width: 545px;
+    border: 1px solid #ebe8e8;
+    max-width: 545px;
     /* max-height:600px ; */
- }
-.section p{
+}
+
+.section p {
     padding-left: 3%;
 }
-.section button{
+
+.section button {
     background-color: #66DC99;
     padding: 10px;
     border-radius: 30px;
@@ -27,18 +30,20 @@
     color: #002D2B;
     margin-left: 3%;
     margin-top: 35px;
-    margin-bottom:4% ;
+    margin-bottom: 4%;
 }
-.subtittle{
+
+.subtittle {
     font-size: 20px;
 }
 
 
- .section p:nth-last-of-type(2){
+.section p:nth-last-of-type(2) {
     font-size: 25px;
     margin-top: -20px;
     margin-bottom: -2px;
-  }
+}
+
 .section ul {
-    margin-top:-1px;
+    margin-top: -1px;
 }

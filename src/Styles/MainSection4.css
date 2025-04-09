@@ -1,25 +1,27 @@
- .Tittle{
-    font-size: 30px;
+ .Tittle {
+     font-size: 30px;
  }
 
-.sectionDiv {
-    display: flex;
-    gap: 100px;
-    /* spacing between the sections */
-    justify-content: space-between;
-    /* optional, for spacing */
-}
-.Section{
-    border: 1px solid rgb(225, 220, 220);
-    border-radius: 5px;
-    padding-left: 15px;
-}
+ .sectionDiv {
+     display: flex;
+     gap: 100px;
+     /* spacing between the sections */
+     justify-content: space-between;
+     /* optional, for spacing */
+ }
 
-.sectionDiv hr {
-    margin-top: 35%;
+ .Section {
+     border: 1px solid rgb(225, 220, 220);
+     border-radius: 5px;
+     padding-left: 15px;
+ }
 
-}
+ .sectionDiv hr {
+     margin-top: 35%;
 
-.sectionPara{
-         font-size:19px; /* ya jo size chhota chahiye ho */   
+ }
+
+ .sectionPara {
+     font-size: 19px;
+     /* ya jo size chhota chahiye ho */
  }

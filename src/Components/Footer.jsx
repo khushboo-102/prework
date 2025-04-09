@@ -1,15 +1,15 @@
 import "../Styles/Footer.css"
-function Footer(){
-    return(
+function Footer() {
+    return (
         <footer>
             <div className="logoDiv">
                 <img src="footerLogo.png" alt="" />
                 <p>Velionex</p>
             </div>
-             <div className="footerDiv1">
+            <div className="footerDiv1">
                 <section>
                     <p>Products</p>
-                    <hr/>
+                    <hr />
                     <p>Wireless</p>
                     <p>Internet</p>
                     <p>Directv</p>
@@ -24,7 +24,7 @@ function Footer(){
             <div className="footerDiv2">
                 <section>
                     <p>Follow us</p>
-                    <hr/>
+                    <hr />
                     <p>Instagram</p>
                     <p>News letter</p>
                 </section>
@@ -38,7 +38,7 @@ function Footer(){
                 <p className="privacyTittle">Privacy Policy</p>
                 <p className="CookieTittle">Cookie Policy</p>
             </div>
-          </footer>
+        </footer>
     )
 }
 
